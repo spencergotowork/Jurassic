@@ -2,6 +2,8 @@
 
 ## Preparation steps units 00 to 08:
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spencergotowork/Jurassic.git/main)
+
 ### Clone the repository
 First, we download all the code and some of the pre-trained sample models and dataset from Github. 
 ```
